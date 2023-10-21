@@ -110,9 +110,6 @@ df2
 ## Initial data:
 ![273361639-97e763d2-5d13-4557-ac74-013d5dbafc31](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/2083700f-cd00-448e-8582-50b791b492d5)
 
-## Unique data:
-![273361675-b6eeb54b-fa73-453c-8633-e6d2683e188e](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/c3a48ec4-6116-4371-8e7b-985d8543b45c)
-
 ## Ordinal encoder:
 ![273361705-0347af5e-9372-4e3d-8d6c-37624bf491ad](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/c009a540-26ba-4f99-a745-40e9457bd92a)
 ![273361778-b40cb7fe-2307-49fe-b5b4-c8fc0cc6a92e](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-05/assets/119393589/7e55c1b4-00db-4160-ac47-4b16f12f2fa9)
